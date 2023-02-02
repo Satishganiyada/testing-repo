@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
-:wq!
-|2,0,1675336470,,"wq!"
 :wq
-|2,0,1675335842,,"wq"
+|2,0,1675337789,,"wq"
+:wq!
+|2,0,1675336905,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -32,34 +32,182 @@
 |3,1,0,0,3,0,1674999056,"o","","#"
 
 # File marks:
-'0  1  11  ~/.git/COMMIT_EDITMSG
-|4,48,1,11,1675336470,"~/.git/COMMIT_EDITMSG"
-'1  2  0  ~/.git/COMMIT_EDITMSG
-|4,49,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
-'2  2  0  ~/.git/COMMIT_EDITMSG
-|4,50,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
-'3  1  16  ~/rahul
-|4,51,1,16,1675335842,"~/rahul"
-'4  54  34  /etc/group
-|4,52,54,34,1675259559,"/etc/group"
-'5  1  4  /home/ec2-user/mumbaigit/big
-|4,53,1,4,1675256022,"/home/ec2-user/mumbaigit/big"
-'6  1  0  /home/ec2-user/docker/anilfile
-|4,54,1,0,1675092421,"/home/ec2-user/docker/anilfile"
-'7  1  10  /home/ec2-user/docker/test22
-|4,55,1,10,1675091377,"/home/ec2-user/docker/test22"
-'8  1  32  /home/ec2-user/localrepo/myfile2
-|4,56,1,32,1675089812,"/home/ec2-user/localrepo/myfile2"
-'9  1  28  /home/ec2-user/mumbaigit/myfile
-|4,57,1,28,1675085111,"/home/ec2-user/mumbaigit/myfile"
+'0  1  7  ~/satish
+|4,48,1,7,1675337789,"~/satish"
+'1  1  2  ~/satish
+|4,49,1,2,1675337714,"~/satish"
+'2  1  7  ~/hari
+|4,50,1,7,1675337289,"~/hari"
+'3  1  14  ~/folder1/testing
+|4,51,1,14,1675336905,"~/folder1/testing"
+'4  1  11  ~/.git/COMMIT_EDITMSG
+|4,52,1,11,1675336470,"~/.git/COMMIT_EDITMSG"
+'5  2  0  ~/.git/COMMIT_EDITMSG
+|4,53,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
+'6  2  0  ~/.git/COMMIT_EDITMSG
+|4,54,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
+'7  1  16  ~/rahul
+|4,55,1,16,1675335842,"~/rahul"
+'8  54  34  /etc/group
+|4,56,54,34,1675259559,"/etc/group"
+'9  1  4  /home/ec2-user/mumbaigit/big
+|4,57,1,4,1675256022,"/home/ec2-user/mumbaigit/big"
 
 # Jumplist (newest first):
+-'  1  7  ~/satish
+|4,39,1,7,1675337789,"~/satish"
+-'  1  2  ~/satish
+|4,39,1,2,1675337714,"~/satish"
+-'  1  7  ~/hari
+|4,39,1,7,1675337289,"~/hari"
+-'  1  7  ~/hari
+|4,39,1,7,1675337289,"~/hari"
+-'  1  7  ~/hari
+|4,39,1,7,1675337289,"~/hari"
+-'  1  7  ~/hari
+|4,39,1,7,1675337289,"~/hari"
+-'  1  14  ~/folder1/testing
+|4,39,1,14,1675336905,"~/folder1/testing"
+-'  1  14  ~/folder1/testing
+|4,39,1,14,1675336905,"~/folder1/testing"
+-'  1  14  ~/folder1/testing
+|4,39,1,14,1675336905,"~/folder1/testing"
+-'  1  14  ~/folder1/testing
+|4,39,1,14,1675336905,"~/folder1/testing"
+-'  1  14  ~/folder1/testing
+|4,39,1,14,1675336905,"~/folder1/testing"
+-'  1  14  ~/folder1/testing
+|4,39,1,14,1675336905,"~/folder1/testing"
+-'  1  14  ~/folder1/testing
+|4,39,1,14,1675336905,"~/folder1/testing"
+-'  1  14  ~/folder1/testing
+|4,39,1,14,1675336905,"~/folder1/testing"
+-'  1  11  ~/.git/COMMIT_EDITMSG
+|4,39,1,11,1675336470,"~/.git/COMMIT_EDITMSG"
+-'  1  11  ~/.git/COMMIT_EDITMSG
+|4,39,1,11,1675336470,"~/.git/COMMIT_EDITMSG"
+-'  1  11  ~/.git/COMMIT_EDITMSG
+|4,39,1,11,1675336470,"~/.git/COMMIT_EDITMSG"
+-'  1  11  ~/.git/COMMIT_EDITMSG
+|4,39,1,11,1675336470,"~/.git/COMMIT_EDITMSG"
+-'  1  11  ~/.git/COMMIT_EDITMSG
+|4,39,1,11,1675336470,"~/.git/COMMIT_EDITMSG"
+-'  1  11  ~/.git/COMMIT_EDITMSG
+|4,39,1,11,1675336470,"~/.git/COMMIT_EDITMSG"
+-'  1  11  ~/.git/COMMIT_EDITMSG
+|4,39,1,11,1675336470,"~/.git/COMMIT_EDITMSG"
+-'  1  11  ~/.git/COMMIT_EDITMSG
+|4,39,1,11,1675336470,"~/.git/COMMIT_EDITMSG"
+-'  1  11  ~/.git/COMMIT_EDITMSG
+|4,39,1,11,1675336470,"~/.git/COMMIT_EDITMSG"
+-'  1  11  ~/.git/COMMIT_EDITMSG
+|4,39,1,11,1675336470,"~/.git/COMMIT_EDITMSG"
+-'  1  11  ~/.git/COMMIT_EDITMSG
+|4,39,1,11,1675336470,"~/.git/COMMIT_EDITMSG"
+-'  1  11  ~/.git/COMMIT_EDITMSG
+|4,39,1,11,1675336470,"~/.git/COMMIT_EDITMSG"
+-'  1  11  ~/.git/COMMIT_EDITMSG
+|4,39,1,11,1675336470,"~/.git/COMMIT_EDITMSG"
+-'  1  11  ~/.git/COMMIT_EDITMSG
+|4,39,1,11,1675336470,"~/.git/COMMIT_EDITMSG"
+-'  1  11  ~/.git/COMMIT_EDITMSG
+|4,39,1,11,1675336470,"~/.git/COMMIT_EDITMSG"
 -'  1  11  ~/.git/COMMIT_EDITMSG
 |4,39,1,11,1675336470,"~/.git/COMMIT_EDITMSG"
 -'  2  0  ~/.git/COMMIT_EDITMSG
 |4,39,2,0,1675336430,"~/.git/COMMIT_EDITMSG"
 -'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336430,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336430,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336430,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336430,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336430,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336430,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336430,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336430,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336430,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336430,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336430,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336430,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336430,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336430,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336430,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
 |4,39,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1675336076,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1675336037,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1675336037,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1675336037,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1675336037,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1675336037,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1675336037,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1675336037,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1675336037,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1675336037,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1675336037,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1675336037,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1675336037,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1675336037,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1675336037,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1675336037,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1675336037,"~/.git/COMMIT_EDITMSG"
 -'  1  16  ~/rahul
@@ -70,192 +218,66 @@
 |4,39,1,16,1675335842,"~/rahul"
 -'  1  16  ~/rahul
 |4,39,1,16,1675335842,"~/rahul"
--'  54  34  /etc/group
-|4,39,54,34,1675259559,"/etc/group"
--'  54  34  /etc/group
-|4,39,54,34,1675259559,"/etc/group"
--'  54  34  /etc/group
-|4,39,54,34,1675259559,"/etc/group"
--'  54  34  /etc/group
-|4,39,54,34,1675259559,"/etc/group"
--'  54  34  /etc/group
-|4,39,54,34,1675259559,"/etc/group"
--'  54  34  /etc/group
-|4,39,54,34,1675259559,"/etc/group"
--'  54  34  /etc/group
-|4,39,54,34,1675259559,"/etc/group"
--'  54  34  /etc/group
-|4,39,54,34,1675259559,"/etc/group"
--'  1  0  /etc/group
-|4,39,1,0,1675259517,"/etc/group"
--'  1  0  /etc/group
-|4,39,1,0,1675259517,"/etc/group"
--'  1  0  /etc/group
-|4,39,1,0,1675259517,"/etc/group"
--'  1  0  /etc/group
-|4,39,1,0,1675259517,"/etc/group"
--'  1  0  /etc/group
-|4,39,1,0,1675259517,"/etc/group"
--'  1  0  /etc/group
-|4,39,1,0,1675259517,"/etc/group"
--'  1  0  /etc/group
-|4,39,1,0,1675259517,"/etc/group"
--'  1  0  /etc/group
-|4,39,1,0,1675259517,"/etc/group"
--'  1  4  /home/ec2-user/mumbaigit/big
-|4,39,1,4,1675256022,"/home/ec2-user/mumbaigit/big"
--'  1  4  /home/ec2-user/mumbaigit/big
-|4,39,1,4,1675256022,"/home/ec2-user/mumbaigit/big"
--'  1  4  /home/ec2-user/mumbaigit/big
-|4,39,1,4,1675256022,"/home/ec2-user/mumbaigit/big"
--'  1  4  /home/ec2-user/mumbaigit/big
-|4,39,1,4,1675256022,"/home/ec2-user/mumbaigit/big"
--'  1  4  /home/ec2-user/mumbaigit/big
-|4,39,1,4,1675256022,"/home/ec2-user/mumbaigit/big"
--'  1  4  /home/ec2-user/mumbaigit/big
-|4,39,1,4,1675256022,"/home/ec2-user/mumbaigit/big"
--'  1  4  /home/ec2-user/mumbaigit/big
-|4,39,1,4,1675256022,"/home/ec2-user/mumbaigit/big"
--'  1  4  /home/ec2-user/mumbaigit/big
-|4,39,1,4,1675256022,"/home/ec2-user/mumbaigit/big"
--'  1  4  /home/ec2-user/mumbaigit/big
-|4,39,1,4,1675256022,"/home/ec2-user/mumbaigit/big"
--'  1  4  /home/ec2-user/mumbaigit/big
-|4,39,1,4,1675256022,"/home/ec2-user/mumbaigit/big"
--'  1  4  /home/ec2-user/mumbaigit/big
-|4,39,1,4,1675256022,"/home/ec2-user/mumbaigit/big"
--'  1  4  /home/ec2-user/mumbaigit/big
-|4,39,1,4,1675256022,"/home/ec2-user/mumbaigit/big"
--'  1  4  /home/ec2-user/mumbaigit/big
-|4,39,1,4,1675256022,"/home/ec2-user/mumbaigit/big"
--'  1  4  /home/ec2-user/mumbaigit/big
-|4,39,1,4,1675256022,"/home/ec2-user/mumbaigit/big"
--'  1  4  /home/ec2-user/mumbaigit/big
-|4,39,1,4,1675256022,"/home/ec2-user/mumbaigit/big"
--'  1  4  /home/ec2-user/mumbaigit/big
-|4,39,1,4,1675256022,"/home/ec2-user/mumbaigit/big"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  0  /home/ec2-user/docker/anilfile
-|4,39,1,0,1675092421,"/home/ec2-user/docker/anilfile"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
--'  1  10  /home/ec2-user/docker/test22
-|4,39,1,10,1675091377,"/home/ec2-user/docker/test22"
+-'  1  16  ~/rahul
+|4,39,1,16,1675335842,"~/rahul"
+-'  1  16  ~/rahul
+|4,39,1,16,1675335842,"~/rahul"
+-'  1  16  ~/rahul
+|4,39,1,16,1675335842,"~/rahul"
+-'  1  16  ~/rahul
+|4,39,1,16,1675335842,"~/rahul"
+-'  1  16  ~/rahul
+|4,39,1,16,1675335842,"~/rahul"
+-'  1  16  ~/rahul
+|4,39,1,16,1675335842,"~/rahul"
+-'  1  16  ~/rahul
+|4,39,1,16,1675335842,"~/rahul"
+-'  1  16  ~/rahul
+|4,39,1,16,1675335842,"~/rahul"
+-'  1  16  ~/rahul
+|4,39,1,16,1675335842,"~/rahul"
+-'  1  16  ~/rahul
+|4,39,1,16,1675335842,"~/rahul"
+-'  1  16  ~/rahul
+|4,39,1,16,1675335842,"~/rahul"
+-'  1  16  ~/rahul
+|4,39,1,16,1675335842,"~/rahul"
+-'  1  16  ~/rahul
+|4,39,1,16,1675335842,"~/rahul"
+-'  1  16  ~/rahul
+|4,39,1,16,1675335842,"~/rahul"
+-'  1  16  ~/rahul
+|4,39,1,16,1675335842,"~/rahul"
+-'  1  16  ~/rahul
+|4,39,1,16,1675335842,"~/rahul"
+-'  1  16  ~/rahul
+|4,39,1,16,1675335842,"~/rahul"
+-'  1  16  ~/rahul
+|4,39,1,16,1675335842,"~/rahul"
 
 # History of marks within files (newest to oldest):
+
+> ~/satish
+	*	1675337785	0
+	"	1	7
+	^	1	8
+	.	1	7
+	+	1	7
+
+> ~/hari
+	*	1675337286	0
+	"	1	7
+	^	1	8
+	.	1	7
+	+	1	7
+
+> ~/folder1/testing
+	*	1675336899	0
+	"	1	14
+	^	1	15
+	.	1	14
+	+	1	14
+	a	1	0
 
 > ~/.git/COMMIT_EDITMSG
 	*	1675336465	0
